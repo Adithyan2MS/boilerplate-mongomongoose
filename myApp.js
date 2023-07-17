@@ -51,6 +51,7 @@ const queryChain = (done) => {
   done(null /*, data*/);
 };
 
+console.log("hai")
 /** **Well Done !!**
 /* You completed these challenges, let's go celebrate !
  */
